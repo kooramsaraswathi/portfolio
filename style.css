@@ -1,0 +1,144 @@
+
+#nav{
+    width:auto;
+    height:100px;
+    background-color: rgb(158, 211, 241);
+    position:fixed;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-top: 35px;
+    float: right;
+    font-size: 20px;
+    font-family: arial;
+    margin-right: 750px;
+}
+a:hover{
+    color:orangered;
+}
+#nv1{
+    float:right;
+    margin-right: 650px;
+    margin-top: -25px;
+}
+#nv2{
+    float:right;
+    margin-right: 550px;
+    margin-top: -25px;
+}
+#nv3{
+    float:right;
+    margin-right: 425px;
+    margin-top: -25px;
+}
+#nv4{
+    float:right;
+    margin-right: 300px;
+    margin-top: -25px;
+}
+#nv5{
+    float:right;
+    margin-right: 1100px;
+    margin-top: -25px;
+}
+#ab{
+    width: auto;
+    height: 500px;
+    background-color: whitesmoke;
+    font-size: 50px;
+    margin-top: -65px;
+    font-family:'Segoe UI';
+    
+}
+
+#about1{
+    background-color: antiquewhite;
+    width:auto;
+    height: 400px;
+    font-style: italic;
+    font-size: larger;
+    margin-top: -50px;
+}
+#home{
+    margin-left:300px;
+    color: black;
+    
+}
+#about{
+    margin-left: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#about:hover{
+    color:orangered;
+}
+#para{
+    color:navy;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#img{
+    
+    float: right;
+    width: 300px;
+    height: 300px;
+    margin-top: -90px;
+    margin-right: 300px;
+    border-radius: 100%;
+
+}
+#skills1{
+    background-color: bisque;
+    width: auto;
+    height: 300px;
+    margin-top: -33px;
+}
+#skills{
+    margin-left: 600px;
+    font-family:  'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+#skilsl:hover{
+    color:rgb(168, 28, 28);
+}
+#abc{
+    color: black;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+#projects1{
+    background-color: blanchedalmond;
+    width: auto;
+    height: auto;
+    margin-top: -35px;
+
+}
+#projects{
+    margin-left:600px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+#pro{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+#projects:hover{
+    color:rgb(168, 28, 28);
+}
+#cal{
+    margin-left: 450px;
+}
+#navv{
+    margin-left: 20px;
+}
+#conact{
+    background-color: rgb(250, 227, 198);
+    width: auto;
+    height: 400px;
+    margin-top: -32px;
+}
+
